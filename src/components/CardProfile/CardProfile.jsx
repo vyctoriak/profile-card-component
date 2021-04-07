@@ -13,7 +13,7 @@ export default function CardProfile() {
         <p>London</p>
 
         <div className="photo-profile">
-          <img src={PhotoProfile} alt="Profile photo" />
+          <img src={PhotoProfile} alt="Profile" />
         </div>
       </div>
 
