@@ -2,7 +2,7 @@
 
 .container-card {
   font-family: "Kumbh Sans", sans-serif;
-  font-size: 18px;
+  font-size: 1rem;
 
   border-radius: 12px;
   overflow: hidden;
@@ -91,14 +91,11 @@
       }
 
       span:nth-child(2) {
-        font-size: 12px;
+        font-size: 1rem;
         color: hsl(227, 10%, 46%);
         letter-spacing: 2px;
         padding-top: 8px;
       }
     }
-  }
-  @media screen and (max-width: 375px) {
-    width: 300px;
   }
 }

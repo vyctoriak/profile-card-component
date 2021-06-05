@@ -5,7 +5,7 @@ import PhotoProfile from "../../images/image-victor.jpg";
 export default function CardProfile() {
   return (
     <div className="container-card">
-      <img src={CoverPhoto} alt="Capa do perfil" />
+      <img src={CoverPhoto} alt="" />
       <div className="card-infos">
         <p>
           <strong>Victor Crest </strong>26
